@@ -13,7 +13,7 @@ class MyWatch {
 
   async startWatching(gameId, isHome) {
     const browser = await puppeteer.launch();
-    this.page = await browser.newPage();
+    this.page = await (await browser.newPage());
     await this.page.goto('https://www.espn.com/college-football/game?gameId=' + gameId);
 
     let count = 0;
@@ -39,6 +39,15 @@ class MyWatch {
 
       console.log('waiting #', count);
       await this.delay(5000);
+
+      if (count > 0 && count % 100 == 0) {
+        //reload every 100 counts to try to reduce memory/cpu
+        console.log("Reloading watch page");
+        await this.page.close();
+        this.page = await (await browser.newPage());
+        await this.page.goto('https://www.espn.com/college-football/game?gameId=' + gameId);
+      }
+
       count++;
 
     } while (count < 3600);//18000 seconds in 5 hours, 5 seconds each loop means 3600

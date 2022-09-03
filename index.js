@@ -24,12 +24,3 @@ const config = require("./config.json")
 
 let myWatch = new MyWatch();
 myWatch.startWatching(config.gameId, config.isHome);
-
-
-// const TPLSmartDevice = require("tplink-lightbulb")
-// const MyStrip = require("./strip")
-
-// strip = new MyStrip();
-// deskStrip = new TPLSmartDevice('192.168.1.42');
-
-// strip.setColor(deskStrip, 100, 100);
