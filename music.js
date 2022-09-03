@@ -1,25 +1,34 @@
 const config = require("./config.json");
 const puppeteer = require('puppeteer');
 
-module.exports.startMusic = async function() {
-  const browser = await puppeteer.launch({
-    headless: true,
-    ignoreDefaultArgs: [
-      "--mute-audio",
-    ],
-    args: [
-      "--autoplay-policy=no-user-gesture-required",
-    ],
-  });
-  const page = await browser.newPage();
-  await page.goto(config.musicUrl);
+class MyMusic {
+  
+  isPlaying = false;
 
-  await delay(config.musicLengthMs);
-  await browser.close();
-};
+  async startMusic() {
+    this.isPlaying = true;
+    const browser = await puppeteer.launch({
+      headless: true,
+      ignoreDefaultArgs: [
+        "--mute-audio",
+      ],
+      args: [
+        "--autoplay-policy=no-user-gesture-required",
+      ],
+    });
+    const page = await browser.newPage();
+    await page.goto(config.musicUrl);
 
-function delay(time) {
-  return new Promise(function (resolve) {
-    setTimeout(resolve, time)
-  });
+    await this.delay(config.musicLengthMs);
+    await browser.close();
+    this.isPlaying = false;
+  };
+
+  delay(time) {
+    return new Promise(function (resolve) {
+      setTimeout(resolve, time)
+    });
+  }
+
 }
+module.exports = MyMusic;

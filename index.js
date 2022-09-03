@@ -12,6 +12,13 @@ https://github.com/python-kasa/python-kasa/issues/191
 192.168.1.198 - Kitchen Light - KL130(US)
 */
 
+//green: 100,100
+//red: 0, 100
+//white: 0,0
+
+//marshall song: https://www.youtube.com/watch?v=AgE7EyPxcsI
+//osu song: https://www.youtube.com/watch?v=5Tq4Wk0100w
+
 const MyWatch = require("./watch")
 const config = require("./config.json")
 
@@ -25,4 +32,4 @@ myWatch.startWatching(config.gameId, config.isHome);
 // strip = new MyStrip();
 // deskStrip = new TPLSmartDevice('192.168.1.42');
 
-// strip.setCustomColor(deskStrip);
+// strip.setColor(deskStrip, 100, 100);

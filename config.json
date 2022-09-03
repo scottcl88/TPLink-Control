@@ -1,12 +1,13 @@
 {
-  "gameId": "401411096",
+  "gameId": "401415015",
   "isHome": true,
-  "musicUrl": "https://www.youtube.com/watch?v=5Tq4Wk0100w",
+  "musicUrl": "https://www.youtube.com/watch?v=AgE7EyPxcsI",
   "musicLengthMs": 42900,
-  "primaryColorHue": 0,
+  "primaryColorHue": 100,
   "primaryColorSaturation": 100,
   "secondaryColorHue": 0,
   "secondaryColorSaturation": 0,
+  "changeLightsBack": false,
   "lightsCount": 30,
   "lightsDelayMs": 1500
 }

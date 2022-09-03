@@ -25,9 +25,11 @@ class MyLights {
   doRed = true;
   count = 0;
 
+  isPlaying = false;
 
   async start() {
     console.log("Starting lights loop");
+    this.isPlaying = true;
     while (this.count < config.lightsCount) {
       if (this.doRed) {     
         this.bulb.setColor(this.kitchenLight, config.primaryColorHue, config.primaryColorSaturation);
@@ -40,6 +42,11 @@ class MyLights {
       this.count++;
       await this.delay(config.lightsDelayMs);
     }
+    await this.delay(config.lightsDelayMs);
+    this.bulb.setWhiteColor(this.kitchenLight);
+    this.strip.setAuroraColor(this.deskStrip);
+    this.isPlaying = false;
+    this.count = 0;
     console.log("Stopping lights");
   }
 

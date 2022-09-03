@@ -20,7 +20,7 @@ class MyStrip {
 
   // { "custom": 0, "id": "tIwTRQBqJpeNKbrtBMFCgkdPTbAQGfRP", "brightness": 100, "name": "Bubbling Cauldron", "segments": [0], "expansion_strategy": 1, "enable": 1, "type": "random", "hue_range": [100, 270], "saturation_range": [80, 100], "brightness_range": [50, 100], "duration": 0, "transition": 200, "init_states": [[270, 100, 100]], "fadeoff": 1000, "random_seed": 24, "backgrounds": [[270, 40, 50]] }
   setAuroraColor(light) {
-    console.log("Setting custom color");
+    console.log("Setting aurora effect");
     light.send({
       "smartlife.iot.lighting_effect":
       {
@@ -29,8 +29,8 @@ class MyStrip {
       }
     })
       .then((response) => {
-        console.log(response)
-        console.log("Custom color set");
+      //  console.log(response)
+       // console.log("Custom color set");
       })
       .catch((e) => console.error(e));
   }
@@ -45,8 +45,8 @@ class MyStrip {
       }
     })
       .then((response) => {
-        console.log(response)
-        console.log("Custom color set");
+       // console.log(response)
+      //  console.log("Custom color set");
       })
       .catch((e) => console.error(e));
   }
