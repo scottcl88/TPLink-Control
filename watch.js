@@ -24,8 +24,8 @@ class MyWatch {
     let currentText = "";
     let keepReading = true;
     let count = 0;
-    music.startMusic();
-    this.myLights.start();
+    //music.startMusic();
+    //this.myLights.start();
     do {
       let element = null;
       if (isHome) {

@@ -12,6 +12,7 @@ https://www.w3docs.com/tools/color-hsl
 const TPLSmartDevice = require("tplink-lightbulb")
 const MyBulb = require("./bulb")
 const MyStrip = require("./strip")
+const config = require("./config.json")
 
 class MyLights {
 
@@ -27,17 +28,17 @@ class MyLights {
 
   async start() {
     console.log("Starting lights loop");
-    while (this.count < 30) {
-      if (this.doRed) {
-        this.bulb.setRedColor(this.kitchenLight);
-        this.strip.setWhiteColor(this.deskStrip);
+    while (this.count < config.lightsCount) {
+      if (this.doRed) {     
+        this.bulb.setColor(this.kitchenLight, config.primaryColorHue, config.primaryColorSaturation);
+        this.strip.setColor(this.deskStrip, config.secondaryColorHue, config.secondaryColorSaturation);
       } else {
-        this.bulb.setWhiteColor(this.kitchenLight);
-        this.strip.setRedColor(this.deskStrip);
+        this.bulb.setColor(this.kitchenLight, config.secondaryColorHue, config.secondaryColorSaturation);
+        this.strip.setColor(this.deskStrip, config.primaryColorHue, config.primaryColorSaturation);
       }
       this.doRed = !this.doRed;
       this.count++;
-      await this.delay(1500);
+      await this.delay(config.lightsDelayMs);
     }
     console.log("Stopping lights");
   }

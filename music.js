@@ -1,3 +1,4 @@
+const config = require("./config.json");
 const puppeteer = require('puppeteer');
 
 module.exports.startMusic = async function() {
@@ -11,9 +12,9 @@ module.exports.startMusic = async function() {
     ],
   });
   const page = await browser.newPage();
-  await page.goto('https://youtube.com/clip/UgkxE02q5HgXWosHjn5KwDH1OqnuaDApqNFK');
+  await page.goto(config.musicUrl);
 
-  await delay(43000);
+  await delay(config.musicLengthMs);
   await browser.close();
 };
 
