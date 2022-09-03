@@ -25,23 +25,21 @@ class MyLights {
   count = 0;
 
 
-  start() {
-    interval = setInterval(() => {
-      console.log("In interval: ", doRed);
-      if (doRed) {
-        bulb.setRedColor(kitchenLight);
-        strip.setRedColor(deskStrip);
+  async start() {
+    console.log("Starting lights loop");
+    while (this.count < 30) {
+      if (this.doRed) {
+        this.bulb.setRedColor(this.kitchenLight);
+        this.strip.setWhiteColor(this.deskStrip);
       } else {
-        bulb.setWhiteColor(kitchenLight);
-        strip.setWhiteColor(deskStrip);
+        this.bulb.setWhiteColor(this.kitchenLight);
+        this.strip.setRedColor(this.deskStrip);
       }
-      doRed = !doRed;
-      count++;
-      if (count >= 5) {
-        console.log("Stopping interval");
-        clearInterval(interval);
-      }
-    }, 3000);
+      this.doRed = !this.doRed;
+      this.count++;
+      await this.delay(1500);
+    }
+    console.log("Stopping lights");
   }
 
   delay(time) {

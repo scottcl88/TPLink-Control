@@ -1,7 +1,7 @@
 class MyBulb {
 
   setRedColor(light) {
-    console.log("Setting red color");
+   // console.log("Setting red color");
     light.send({
       "smartlife.iot.smartbulb.lightingservice":
       {
@@ -13,13 +13,13 @@ class MyBulb {
     })
     .then((response) => {
         //console.log(response)
-        console.log("Red color set");
+      //  console.log("Red color set");
       })
       .catch((e) => console.error(e))
   }
 
   setWhiteColor(light) {
-    console.log("Setting white color");
+   // console.log("Setting white color");
     light.send({
       "smartlife.iot.smartbulb.lightingservice":
       {
@@ -31,7 +31,7 @@ class MyBulb {
     })
       .then((response) => {
         //console.log(response)
-        console.log("White color set");
+      //  console.log("White color set");
       })
       .catch((e) => console.error(e))
 

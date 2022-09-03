@@ -13,7 +13,7 @@ module.exports.startMusic = async function() {
   const page = await browser.newPage();
   await page.goto('https://youtube.com/clip/UgkxE02q5HgXWosHjn5KwDH1OqnuaDApqNFK');
 
-  await delay(40000);
+  await delay(43000);
   await browser.close();
 };
 
