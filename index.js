@@ -21,6 +21,13 @@ https://github.com/python-kasa/python-kasa/issues/191
 
 const MyWatch = require("./watch")
 const config = require("./config.json")
+const fs = require('fs')
+
+var exLog = console.log;
+console.log = function(msg) {
+    fs.appendFileSync('./log-file.txt', new Date().toLocaleTimeString() + " : " + msg+"\n");
+    exLog(new Date().toLocaleTimeString() + " : " + msg);
+}
 
 let myWatch = new MyWatch();
 myWatch.startWatching(config.gameId, config.isHome);

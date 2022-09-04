@@ -29,7 +29,7 @@ class MyStrip {
       }
     })
       .then((response) => {
-      //  console.log(response)
+        console.log(response)
        // console.log("Custom color set");
       })
       .catch((e) => console.error(e));

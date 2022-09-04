@@ -1,0 +1,2000 @@
+9:26:24 PM : Score is: 7
+9:26:24 PM : waiting #
+9:26:29 PM : Score is: 7
+9:26:29 PM : waiting #
+9:26:34 PM : Score is: 7
+9:26:34 PM : waiting #
+9:26:39 PM : Score is: 7
+9:26:39 PM : waiting #
+9:26:44 PM : Score is: 7
+9:26:44 PM : waiting #
+9:26:49 PM : Score is: 7
+9:26:49 PM : waiting #
+9:26:54 PM : Score is: 7
+9:26:54 PM : waiting #
+9:26:59 PM : Score is: 7
+9:26:59 PM : waiting #
+9:27:04 PM : Score is: 7
+9:27:04 PM : waiting #
+9:27:09 PM : Score is: 7
+9:27:09 PM : waiting #
+9:27:14 PM : Score is: 7
+9:27:14 PM : waiting #
+9:27:19 PM : Score is: 7
+9:27:19 PM : waiting #
+9:27:24 PM : Score is: 7
+9:27:24 PM : waiting #
+9:27:29 PM : Score is: 7
+9:27:29 PM : waiting #
+9:27:34 PM : Score is: 7
+9:27:34 PM : waiting #
+9:27:39 PM : Score is: 7
+9:27:39 PM : waiting #
+9:27:44 PM : Score is: 7
+9:27:44 PM : waiting #
+9:27:49 PM : Score is: 7
+9:27:49 PM : waiting #
+9:27:54 PM : Score is: 7
+9:27:54 PM : waiting #
+9:27:59 PM : Score is: 7
+9:27:59 PM : waiting #
+9:28:04 PM : Score is: 7
+9:28:04 PM : waiting #
+9:28:09 PM : Score is: 7
+9:28:09 PM : waiting #
+9:28:14 PM : Score is: 7
+9:28:14 PM : waiting #
+9:28:20 PM : Score is: 7
+9:28:20 PM : waiting #
+9:28:25 PM : Score is: 7
+9:28:25 PM : waiting #
+9:28:30 PM : Score is: 7
+9:28:30 PM : waiting #
+9:28:35 PM : Score is: 7
+9:28:35 PM : waiting #
+9:28:40 PM : Score is: 7
+9:28:40 PM : waiting #
+9:28:45 PM : Score is: 7
+9:28:45 PM : waiting #
+9:28:50 PM : Score is: 7
+9:28:50 PM : waiting #
+9:28:55 PM : Score is: 7
+9:28:55 PM : waiting #
+9:29:00 PM : Score is: 7
+9:29:00 PM : waiting #
+9:29:05 PM : Score is: 7
+9:29:05 PM : waiting #
+9:29:10 PM : Score is: 7
+9:29:10 PM : waiting #
+9:29:15 PM : Score is: 7
+9:29:15 PM : waiting #
+9:29:20 PM : Score is: 7
+9:29:20 PM : waiting #
+9:29:25 PM : Score is: 7
+9:29:25 PM : waiting #
+9:29:30 PM : Score is: 7
+9:29:30 PM : waiting #
+9:29:35 PM : Score is: 7
+9:29:35 PM : waiting #
+9:29:40 PM : Score is: 7
+9:29:40 PM : waiting #
+9:29:45 PM : Score is: 7
+9:29:45 PM : waiting #
+9:29:50 PM : Score is: 7
+9:29:50 PM : waiting #
+9:29:55 PM : Score is: 7
+9:29:55 PM : waiting #
+9:30:00 PM : Score is: 7
+9:30:00 PM : waiting #
+9:30:05 PM : Score is: 7
+9:30:05 PM : waiting #
+9:30:10 PM : Score is: 7
+9:30:10 PM : waiting #
+9:30:15 PM : Score is: 7
+9:30:15 PM : waiting #
+9:30:20 PM : Score is: 7
+9:30:20 PM : waiting #
+9:30:25 PM : Score is: 7
+9:30:25 PM : waiting #
+9:30:30 PM : Score is: 7
+9:30:30 PM : waiting #
+9:30:35 PM : Score is: 7
+9:30:35 PM : waiting #
+9:30:40 PM : Score is: 7
+9:30:40 PM : waiting #
+9:30:45 PM : Score is: 7
+9:30:45 PM : waiting #
+9:30:50 PM : Score is: 7
+9:30:50 PM : waiting #
+9:30:55 PM : Score is: 7
+9:30:55 PM : waiting #
+9:31:00 PM : Score is: 7
+9:31:00 PM : waiting #
+9:31:05 PM : Score is: 7
+9:31:05 PM : waiting #
+9:31:10 PM : Score is: 7
+9:31:10 PM : waiting #
+9:31:15 PM : Score is: 7
+9:31:15 PM : waiting #
+9:31:20 PM : Score is: 7
+9:31:20 PM : waiting #
+9:31:25 PM : Score is: 7
+9:31:25 PM : waiting #
+9:31:30 PM : Score is: 7
+9:31:30 PM : waiting #
+9:31:35 PM : Score is: 7
+9:31:35 PM : waiting #
+9:31:40 PM : Score is: 7
+9:31:40 PM : waiting #
+9:31:45 PM : Score is: 7
+9:31:45 PM : waiting #
+9:31:50 PM : Score is: 7
+9:31:50 PM : waiting #
+9:31:55 PM : Score is: 7
+9:31:55 PM : waiting #
+9:32:00 PM : Score is: 7
+9:32:00 PM : waiting #
+9:32:05 PM : Score is: 7
+9:32:05 PM : waiting #
+9:32:10 PM : Score is: 7
+9:32:10 PM : waiting #
+9:32:15 PM : Score is: 7
+9:32:15 PM : waiting #
+9:32:20 PM : Score is: 7
+9:32:20 PM : waiting #
+9:32:25 PM : Score is: 7
+9:32:25 PM : waiting #
+9:32:30 PM : Score is: 7
+9:32:30 PM : waiting #
+9:32:35 PM : Score is: 7
+9:32:35 PM : waiting #
+9:32:40 PM : Score is: 7
+9:32:40 PM : waiting #
+9:32:45 PM : Score is: 7
+9:32:45 PM : waiting #
+9:32:50 PM : Score is: 7
+9:32:50 PM : waiting #
+9:32:55 PM : Score is: 7
+9:32:55 PM : waiting #
+9:33:00 PM : Score is: 7
+9:33:00 PM : waiting #
+9:33:05 PM : Score is: 7
+9:33:05 PM : waiting #
+9:33:10 PM : Score is: 7
+9:33:10 PM : waiting #
+9:33:15 PM : Score is: 7
+9:33:15 PM : waiting #
+9:33:20 PM : Score is: 7
+9:33:20 PM : waiting #
+9:33:25 PM : Score is: 7
+9:33:25 PM : waiting #
+9:33:30 PM : Score is: 7
+9:33:30 PM : waiting #
+9:33:35 PM : Score is: 7
+9:33:35 PM : waiting #
+9:33:40 PM : Score is: 7
+9:33:40 PM : waiting #
+9:33:45 PM : Score is: 7
+9:33:45 PM : waiting #
+9:33:50 PM : Score is: 7
+9:33:50 PM : waiting #
+9:33:55 PM : Score is: 7
+9:33:55 PM : waiting #
+9:34:00 PM : Score is: 7
+9:34:00 PM : waiting #
+9:34:05 PM : Score is: 7
+9:34:05 PM : waiting #
+9:34:10 PM : Score is: 7
+9:34:10 PM : waiting #
+9:34:15 PM : Score is: 7
+9:34:15 PM : waiting #
+9:34:20 PM : Score is: 7
+9:34:20 PM : waiting #
+9:34:25 PM : Score is: 7
+9:34:25 PM : waiting #
+9:34:30 PM : Score is: 7
+9:34:30 PM : waiting #
+9:34:35 PM : Score is: 7
+9:34:35 PM : waiting #
+9:34:40 PM : Score is: 7
+9:34:40 PM : waiting #
+9:34:45 PM : Score is: 7
+9:34:45 PM : waiting #
+9:34:50 PM : Reloading watch page
+9:34:55 PM : Score is: 7
+9:34:55 PM : waiting #
+9:35:00 PM : Score is: 7
+9:35:00 PM : waiting #
+9:35:05 PM : Score is: 7
+9:35:05 PM : waiting #
+9:35:10 PM : Score is: 7
+9:35:10 PM : waiting #
+9:35:15 PM : Score is: 7
+9:35:15 PM : waiting #
+9:35:20 PM : Score is: 7
+9:35:20 PM : waiting #
+9:35:25 PM : Score is: 7
+9:35:25 PM : waiting #
+9:35:30 PM : Score is: 7
+9:35:30 PM : waiting #
+9:35:35 PM : Score is: 7
+9:35:35 PM : waiting #
+9:35:40 PM : Score is: 7
+9:35:40 PM : waiting #
+9:35:45 PM : Score is: 7
+9:35:45 PM : waiting #
+9:35:50 PM : Score is: 7
+9:35:50 PM : waiting #
+9:35:55 PM : Score is: 7
+9:35:55 PM : waiting #
+9:36:00 PM : Score is: 7
+9:36:00 PM : waiting #
+9:36:05 PM : Score is: 7
+9:36:05 PM : waiting #
+9:36:10 PM : Score is: 7
+9:36:10 PM : waiting #
+9:36:15 PM : Score is: 7
+9:36:15 PM : waiting #
+9:36:20 PM : Score is: 7
+9:36:20 PM : waiting #
+9:36:25 PM : Score is: 7
+9:36:25 PM : waiting #
+9:36:30 PM : Score is: 7
+9:36:30 PM : waiting #
+9:36:35 PM : Score is: 7
+9:36:35 PM : waiting #
+9:36:40 PM : Score is: 7
+9:36:40 PM : waiting #
+9:36:45 PM : Score is: 7
+9:36:45 PM : waiting #
+9:36:50 PM : Score is: 7
+9:36:50 PM : waiting #
+9:36:55 PM : Score is: 7
+9:36:55 PM : waiting #
+9:37:00 PM : Score is: 7
+9:37:00 PM : waiting #
+9:37:05 PM : Score is: 7
+9:37:05 PM : waiting #
+9:37:10 PM : Score is: 7
+9:37:10 PM : waiting #
+9:37:15 PM : Score is: 7
+9:37:15 PM : waiting #
+9:37:20 PM : Score is: 7
+9:37:20 PM : waiting #
+9:37:25 PM : Score is: 7
+9:37:25 PM : waiting #
+9:37:30 PM : Score is: 7
+9:37:30 PM : waiting #
+9:37:35 PM : Score is: 7
+9:37:35 PM : waiting #
+9:37:40 PM : Score is: 7
+9:37:40 PM : waiting #
+9:37:45 PM : Score is: 7
+9:37:45 PM : waiting #
+9:37:50 PM : Score is: 7
+9:37:50 PM : waiting #
+9:37:55 PM : Score is: 7
+9:37:55 PM : waiting #
+9:38:00 PM : Score is: 7
+9:38:00 PM : waiting #
+9:38:05 PM : Score is: 7
+9:38:05 PM : waiting #
+9:38:10 PM : Score is: 7
+9:38:10 PM : waiting #
+9:38:15 PM : Score is: 7
+9:38:15 PM : waiting #
+9:38:20 PM : Score is: 7
+9:38:20 PM : waiting #
+9:38:25 PM : Score is: 7
+9:38:25 PM : waiting #
+9:38:30 PM : Score is: 7
+9:38:30 PM : waiting #
+9:38:35 PM : Score is: 7
+9:38:35 PM : waiting #
+9:38:40 PM : Score is: 7
+9:38:40 PM : waiting #
+9:38:45 PM : Score is: 7
+9:38:45 PM : waiting #
+9:38:50 PM : Score is: 7
+9:38:50 PM : waiting #
+9:38:55 PM : Score is: 7
+9:38:55 PM : waiting #
+9:39:00 PM : Score is: 7
+9:39:00 PM : waiting #
+9:39:05 PM : Score is: 7
+9:39:05 PM : waiting #
+9:39:10 PM : Score is: 7
+9:39:10 PM : waiting #
+9:39:15 PM : Score is: 7
+9:39:15 PM : waiting #
+9:39:20 PM : Score is: 7
+9:39:20 PM : waiting #
+9:39:25 PM : Score is: 7
+9:39:25 PM : waiting #
+9:39:30 PM : Score is: 7
+9:39:30 PM : waiting #
+9:39:35 PM : Score is: 7
+9:39:35 PM : waiting #
+9:39:40 PM : Score is: 7
+9:39:40 PM : waiting #
+9:39:45 PM : Score is: 7
+9:39:45 PM : waiting #
+9:39:50 PM : Score is: 7
+9:39:50 PM : waiting #
+9:39:55 PM : Score is: 7
+9:39:55 PM : waiting #
+9:40:00 PM : Score is: 7
+9:40:00 PM : waiting #
+9:40:05 PM : Score is: 7
+9:40:05 PM : waiting #
+9:40:10 PM : Score is: 7
+9:40:11 PM : waiting #
+9:40:16 PM : Score is: 7
+9:40:16 PM : waiting #
+9:40:21 PM : Score is: 7
+9:40:21 PM : waiting #
+9:40:26 PM : Score is: 7
+9:40:26 PM : waiting #
+9:40:31 PM : Score is: 7
+9:40:31 PM : waiting #
+9:40:36 PM : Score is: 7
+9:40:36 PM : waiting #
+9:40:41 PM : Score is: 7
+9:40:41 PM : waiting #
+9:40:46 PM : Score is: 7
+9:40:46 PM : waiting #
+9:40:51 PM : Score is: 7
+9:40:51 PM : waiting #
+9:40:56 PM : Score is: 7
+9:40:56 PM : waiting #
+9:41:01 PM : Score is: 7
+9:41:01 PM : waiting #
+9:41:06 PM : Score is: 7
+9:41:06 PM : waiting #
+9:41:11 PM : Score is: 7
+9:41:11 PM : waiting #
+9:41:16 PM : Score is: 7
+9:41:16 PM : waiting #
+9:41:21 PM : Score is: 7
+9:41:21 PM : waiting #
+9:41:26 PM : Score is: 7
+9:41:26 PM : waiting #
+9:41:31 PM : Score is: 7
+9:41:31 PM : waiting #
+9:41:36 PM : Score is: 7
+9:41:36 PM : waiting #
+9:41:41 PM : Score is: 7
+9:41:41 PM : waiting #
+9:41:46 PM : Score is: 7
+9:41:46 PM : waiting #
+9:41:51 PM : Score is: 7
+9:41:51 PM : waiting #
+9:41:56 PM : Score is: 7
+9:41:56 PM : waiting #
+9:42:01 PM : Score is: 7
+9:42:01 PM : waiting #
+9:42:06 PM : Score is: 7
+9:42:06 PM : waiting #
+9:42:11 PM : Score is: 7
+9:42:11 PM : waiting #
+9:42:16 PM : Score is: 7
+9:42:16 PM : waiting #
+9:42:21 PM : Score is: 7
+9:42:21 PM : waiting #
+9:42:26 PM : Score is: 7
+9:42:26 PM : waiting #
+9:42:31 PM : Score is: 7
+9:42:31 PM : waiting #
+9:42:36 PM : Score is: 7
+9:42:36 PM : waiting #
+9:42:41 PM : Score is: 7
+9:42:41 PM : waiting #
+9:42:46 PM : Score is: 7
+9:42:46 PM : waiting #
+9:42:51 PM : Score is: 7
+9:42:51 PM : waiting #
+9:42:56 PM : Score is: 7
+9:42:56 PM : waiting #
+9:43:01 PM : Score is: 7
+9:43:01 PM : waiting #
+9:43:06 PM : Score is: 7
+9:43:06 PM : waiting #
+9:43:11 PM : Score is: 7
+9:43:11 PM : waiting #
+9:43:16 PM : Reloading watch page
+9:43:20 PM : Score is: 7
+9:43:20 PM : waiting #
+9:43:25 PM : Score is: 7
+9:43:25 PM : waiting #
+9:43:30 PM : Score is: 7
+9:43:30 PM : waiting #
+9:43:35 PM : Score is: 7
+9:43:35 PM : waiting #
+9:43:40 PM : Score is: 7
+9:43:40 PM : waiting #
+9:43:45 PM : Score is: 7
+9:43:45 PM : waiting #
+9:43:50 PM : Score is: 7
+9:43:50 PM : waiting #
+9:43:55 PM : Score is: 7
+9:43:55 PM : waiting #
+9:44:00 PM : Score is: 7
+9:44:00 PM : waiting #
+9:44:05 PM : Score is: 7
+9:44:05 PM : waiting #
+9:44:10 PM : Score is: 7
+9:44:10 PM : waiting #
+9:44:15 PM : Score is: 7
+9:44:15 PM : waiting #
+9:44:20 PM : Score is: 7
+9:44:20 PM : waiting #
+9:44:25 PM : Score is: 7
+9:44:25 PM : waiting #
+9:44:30 PM : Score is: 7
+9:44:30 PM : waiting #
+9:44:35 PM : Score is: 7
+9:44:35 PM : waiting #
+9:44:40 PM : Score is: 7
+9:44:40 PM : waiting #
+9:44:45 PM : Score is: 7
+9:44:45 PM : waiting #
+9:44:50 PM : Score is: 7
+9:44:50 PM : waiting #
+9:44:55 PM : Score is: 7
+9:44:55 PM : waiting #
+9:45:00 PM : Score is: 7
+9:45:00 PM : waiting #
+9:45:05 PM : Score is: 7
+9:45:05 PM : waiting #
+9:45:10 PM : Score is: 7
+9:45:10 PM : waiting #
+9:45:15 PM : Score is: 7
+9:45:15 PM : waiting #
+9:45:20 PM : Score is: 7
+9:45:20 PM : waiting #
+9:45:25 PM : Score is: 7
+9:45:25 PM : waiting #
+9:45:30 PM : Score is: 7
+9:45:30 PM : waiting #
+9:45:35 PM : Score is: 7
+9:45:36 PM : waiting #
+9:45:41 PM : Score is: 7
+9:45:41 PM : waiting #
+9:45:46 PM : Score is: 7
+9:45:46 PM : waiting #
+9:45:51 PM : Score is: 7
+9:45:51 PM : waiting #
+9:45:56 PM : Score is: 7
+9:45:56 PM : waiting #
+9:46:01 PM : Score is: 7
+9:46:01 PM : waiting #
+9:46:06 PM : Score is: 7
+9:46:06 PM : waiting #
+9:46:11 PM : Score is: 7
+9:46:11 PM : waiting #
+9:46:16 PM : Score is: 7
+9:46:16 PM : waiting #
+9:46:21 PM : Score is: 7
+9:46:21 PM : waiting #
+9:46:26 PM : Score is: 7
+9:46:26 PM : waiting #
+9:46:31 PM : Score is: 7
+9:46:31 PM : waiting #
+9:46:36 PM : Score is: 7
+9:46:36 PM : waiting #
+9:46:41 PM : Score is: 7
+9:46:41 PM : waiting #
+9:46:46 PM : Score is: 7
+9:46:46 PM : waiting #
+9:46:51 PM : Score is: 7
+9:46:51 PM : waiting #
+9:46:56 PM : Score is: 7
+9:46:56 PM : waiting #
+9:47:01 PM : Score is: 7
+9:47:01 PM : waiting #
+9:47:06 PM : Score is: 7
+9:47:06 PM : waiting #
+9:47:11 PM : Score is: 7
+9:47:11 PM : waiting #
+9:47:16 PM : Score is: 7
+9:47:16 PM : waiting #
+9:47:21 PM : Score is: 7
+9:47:21 PM : waiting #
+9:47:26 PM : Score is: 7
+9:47:26 PM : waiting #
+9:47:31 PM : Score is: 7
+9:47:31 PM : waiting #
+9:47:36 PM : Score is: 7
+9:47:36 PM : waiting #
+9:47:41 PM : Score is: 7
+9:47:41 PM : waiting #
+9:47:46 PM : Score is: 7
+9:47:46 PM : waiting #
+9:47:51 PM : Score is: 7
+9:47:51 PM : waiting #
+9:47:56 PM : Score is: 7
+9:47:56 PM : waiting #
+9:48:01 PM : Score is: 7
+9:48:01 PM : waiting #
+9:48:06 PM : Score is: 7
+9:48:06 PM : waiting #
+9:48:11 PM : Score is: 7
+9:48:11 PM : waiting #
+9:48:16 PM : Score is: 7
+9:48:16 PM : waiting #
+9:48:21 PM : Score is: 7
+9:48:21 PM : waiting #
+9:48:26 PM : Score is: 7
+9:48:26 PM : waiting #
+9:48:31 PM : Score is: 7
+9:48:31 PM : waiting #
+9:48:36 PM : Score is: 7
+9:48:36 PM : waiting #
+9:48:41 PM : Score is: 7
+9:48:41 PM : waiting #
+9:48:46 PM : Score is: 7
+9:48:46 PM : waiting #
+9:48:51 PM : Score is: 7
+9:48:51 PM : waiting #
+9:48:56 PM : Score is: 7
+9:48:56 PM : waiting #
+9:49:01 PM : Score is: 7
+9:49:01 PM : waiting #
+9:49:06 PM : Score is: 7
+9:49:06 PM : waiting #
+9:49:11 PM : Score is: 7
+9:49:11 PM : waiting #
+9:49:16 PM : Score is: 7
+9:49:16 PM : waiting #
+9:49:21 PM : Score is: 7
+9:49:21 PM : waiting #
+9:49:26 PM : Score is: 7
+9:49:26 PM : waiting #
+9:49:31 PM : Score is: 7
+9:49:31 PM : waiting #
+9:49:36 PM : Score is: 7
+9:49:36 PM : waiting #
+9:49:41 PM : Score is: 7
+9:49:41 PM : waiting #
+9:49:46 PM : Score is: 7
+9:49:46 PM : waiting #
+9:49:51 PM : Score is: 7
+9:49:51 PM : waiting #
+9:49:56 PM : Score is: 7
+9:49:56 PM : waiting #
+9:50:01 PM : Score is: 7
+9:50:01 PM : waiting #
+9:50:06 PM : Score is: 7
+9:50:06 PM : waiting #
+9:50:11 PM : Score is: 7
+9:50:11 PM : waiting #
+9:50:16 PM : Score is: 7
+9:50:16 PM : waiting #
+9:50:21 PM : Score is: 7
+9:50:21 PM : waiting #
+9:50:26 PM : Score is: 7
+9:50:26 PM : waiting #
+9:50:31 PM : Score is: 7
+9:50:31 PM : waiting #
+9:50:36 PM : Score is: 7
+9:50:36 PM : waiting #
+9:50:41 PM : Score is: 7
+9:50:41 PM : waiting #
+9:50:46 PM : Score is: 7
+9:50:46 PM : waiting #
+9:50:51 PM : Score is: 7
+9:50:51 PM : waiting #
+9:50:56 PM : Score is: 7
+9:50:56 PM : waiting #
+9:51:01 PM : Score is: 7
+9:51:01 PM : waiting #
+9:51:06 PM : Score is: 7
+9:51:06 PM : waiting #
+9:51:11 PM : Score is: 7
+9:51:11 PM : waiting #
+9:51:16 PM : Score is: 7
+9:51:16 PM : waiting #
+9:51:21 PM : Score is: 7
+9:51:21 PM : waiting #
+9:51:26 PM : Score is: 7
+9:51:26 PM : waiting #
+9:51:31 PM : Score is: 7
+9:51:31 PM : waiting #
+9:51:36 PM : Score is: 7
+9:51:36 PM : waiting #
+9:51:41 PM : Reloading watch page
+9:51:45 PM : Score is: 7
+9:51:45 PM : waiting #
+9:51:50 PM : Score is: 7
+9:51:50 PM : waiting #
+9:51:55 PM : Score is: 7
+9:51:55 PM : waiting #
+9:52:00 PM : Score is: 7
+9:52:00 PM : waiting #
+9:52:05 PM : Score is: 7
+9:52:05 PM : waiting #
+9:52:10 PM : Score is: 7
+9:52:10 PM : waiting #
+9:52:15 PM : Score is: 7
+9:52:15 PM : waiting #
+9:52:21 PM : Score is: 7
+9:52:21 PM : waiting #
+9:52:26 PM : Score is: 7
+9:52:26 PM : waiting #
+9:52:31 PM : Score is: 7
+9:52:31 PM : waiting #
+9:52:36 PM : Score is: 7
+9:52:36 PM : waiting #
+9:52:41 PM : Score is: 7
+9:52:41 PM : waiting #
+9:52:46 PM : Score is: 7
+9:52:46 PM : waiting #
+9:52:51 PM : Score is: 7
+9:52:51 PM : waiting #
+9:52:56 PM : Score is: 7
+9:52:56 PM : waiting #
+9:53:01 PM : Score is: 7
+9:53:01 PM : waiting #
+9:53:06 PM : Score is: 7
+9:53:06 PM : waiting #
+9:53:11 PM : Score is: 7
+9:53:11 PM : waiting #
+9:53:16 PM : Score is: 7
+9:53:16 PM : waiting #
+9:53:21 PM : Score is: 7
+9:53:21 PM : waiting #
+9:53:26 PM : Score is: 7
+9:53:26 PM : waiting #
+9:53:31 PM : Score is: 7
+9:53:31 PM : waiting #
+9:53:36 PM : Score is: 7
+9:53:36 PM : waiting #
+9:53:41 PM : Score is: 7
+9:53:41 PM : waiting #
+9:53:46 PM : Score is: 7
+9:53:46 PM : waiting #
+9:53:51 PM : Score is: 7
+9:53:51 PM : waiting #
+9:53:56 PM : Score is: 7
+9:53:56 PM : waiting #
+9:54:01 PM : Score is: 7
+9:54:01 PM : waiting #
+9:54:06 PM : Score is: 7
+9:54:06 PM : waiting #
+9:54:11 PM : Score is: 7
+9:54:11 PM : waiting #
+9:54:16 PM : Score is: 7
+9:54:16 PM : waiting #
+9:54:21 PM : Score is: 7
+9:54:21 PM : waiting #
+9:54:26 PM : Score is: 7
+9:54:26 PM : waiting #
+9:54:31 PM : Score is: 7
+9:54:31 PM : waiting #
+9:54:36 PM : Score is: 7
+9:54:36 PM : waiting #
+9:54:41 PM : Score is: 7
+9:54:41 PM : waiting #
+9:54:46 PM : Score is: 7
+9:54:46 PM : waiting #
+9:54:51 PM : Score is: 7
+9:54:51 PM : waiting #
+9:54:56 PM : Score is: 7
+9:54:56 PM : waiting #
+9:55:01 PM : Score is: 7
+9:55:01 PM : waiting #
+9:55:06 PM : Score is: 7
+9:55:06 PM : waiting #
+9:55:11 PM : Score is: 7
+9:55:11 PM : waiting #
+9:55:16 PM : Score is: 7
+9:55:16 PM : waiting #
+9:55:21 PM : Score is: 7
+9:55:21 PM : waiting #
+9:55:26 PM : Score is: 7
+9:55:26 PM : waiting #
+9:55:31 PM : Score is: 7
+9:55:31 PM : waiting #
+9:55:36 PM : Score is: 7
+9:55:36 PM : waiting #
+9:55:41 PM : Score is: 7
+9:55:41 PM : waiting #
+9:55:46 PM : Score is: 7
+9:55:46 PM : waiting #
+9:55:51 PM : Score is: 7
+9:55:51 PM : waiting #
+9:55:56 PM : Score is: 7
+9:55:56 PM : waiting #
+9:56:01 PM : Score is: 7
+9:56:01 PM : waiting #
+9:56:06 PM : Score is: 7
+9:56:06 PM : waiting #
+9:56:11 PM : Score is: 7
+9:56:11 PM : waiting #
+9:56:16 PM : Score is: 7
+9:56:16 PM : waiting #
+9:56:21 PM : Score is: 7
+9:56:21 PM : waiting #
+9:56:26 PM : Score is: 7
+9:56:26 PM : waiting #
+9:56:31 PM : Score is: 7
+9:56:31 PM : waiting #
+9:56:36 PM : Score is: 7
+9:56:36 PM : waiting #
+9:56:41 PM : Score is: 7
+9:56:41 PM : waiting #
+9:56:46 PM : Score is: 7
+9:56:46 PM : waiting #
+9:56:51 PM : Score is: 7
+9:56:51 PM : waiting #
+9:56:56 PM : Score is: 7
+9:56:56 PM : waiting #
+9:57:01 PM : Score is: 7
+9:57:01 PM : waiting #
+9:57:06 PM : Score is: 7
+9:57:06 PM : waiting #
+9:57:11 PM : Score is: 7
+9:57:11 PM : waiting #
+9:57:16 PM : Score is: 7
+9:57:16 PM : waiting #
+9:57:21 PM : Score is: 7
+9:57:21 PM : waiting #
+9:57:26 PM : Score is: 7
+9:57:26 PM : waiting #
+9:57:31 PM : Score is: 7
+9:57:31 PM : waiting #
+9:57:36 PM : Score is: 7
+9:57:36 PM : waiting #
+9:57:41 PM : Score is: 7
+9:57:41 PM : waiting #
+9:57:46 PM : Score is: 7
+9:57:46 PM : waiting #
+9:57:51 PM : Score is: 7
+9:57:51 PM : waiting #
+9:57:56 PM : Score is: 7
+9:57:56 PM : waiting #
+9:58:01 PM : Score is: 7
+9:58:01 PM : waiting #
+9:58:06 PM : Score is: 7
+9:58:06 PM : waiting #
+9:58:11 PM : Score is: 7
+9:58:11 PM : waiting #
+9:58:16 PM : Score is: 7
+9:58:16 PM : waiting #
+9:58:21 PM : Score is: 7
+9:58:21 PM : waiting #
+9:58:26 PM : Score is: 7
+9:58:26 PM : waiting #
+9:58:31 PM : Score is: 7
+9:58:31 PM : waiting #
+9:58:36 PM : Score is: 7
+9:58:36 PM : waiting #
+9:58:41 PM : Score is: 7
+9:58:41 PM : waiting #
+9:58:46 PM : Score is: 7
+9:58:46 PM : waiting #
+9:58:51 PM : Score is: 7
+9:58:51 PM : waiting #
+9:58:56 PM : Score is: 7
+9:58:56 PM : waiting #
+9:59:01 PM : Score is: 7
+9:59:01 PM : waiting #
+9:59:06 PM : Score is: 7
+9:59:06 PM : waiting #
+9:59:11 PM : Score is: 7
+9:59:11 PM : waiting #
+9:59:16 PM : Score is: 7
+9:59:16 PM : waiting #
+9:59:21 PM : Score is: 7
+9:59:21 PM : waiting #
+9:59:26 PM : Score is: 7
+9:59:26 PM : waiting #
+9:59:31 PM : Score is: 7
+9:59:31 PM : waiting #
+9:59:36 PM : Score is: 7
+9:59:36 PM : waiting #
+9:59:41 PM : Score is: 7
+9:59:41 PM : waiting #
+9:59:46 PM : Score is: 7
+9:59:46 PM : waiting #
+9:59:51 PM : Score is: 7
+9:59:52 PM : waiting #
+9:59:57 PM : Score is: 7
+9:59:57 PM : waiting #
+10:00:02 PM : Score is: 7
+10:00:02 PM : waiting #
+10:00:07 PM : Reloading watch page
+10:00:11 PM : Score is: 7
+10:00:11 PM : waiting #
+10:00:16 PM : Score is: 7
+10:00:16 PM : waiting #
+10:00:21 PM : Score is: 7
+10:00:21 PM : waiting #
+10:00:26 PM : Score is: 7
+10:00:26 PM : waiting #
+10:00:31 PM : Score is: 7
+10:00:31 PM : waiting #
+10:00:36 PM : Score is: 7
+10:00:36 PM : waiting #
+10:00:41 PM : Score is: 7
+10:00:41 PM : waiting #
+10:00:46 PM : Score is: 7
+10:00:46 PM : waiting #
+10:00:51 PM : Score is: 7
+10:00:51 PM : waiting #
+10:00:56 PM : Score is: 7
+10:00:56 PM : waiting #
+10:01:01 PM : Score is: 7
+10:01:01 PM : waiting #
+10:01:06 PM : Score is: 7
+10:01:06 PM : waiting #
+10:01:11 PM : Score is: 7
+10:01:11 PM : waiting #
+10:01:16 PM : Score is: 7
+10:01:16 PM : waiting #
+10:01:21 PM : Score is: 7
+10:01:21 PM : waiting #
+10:01:26 PM : Score is: 7
+10:01:26 PM : waiting #
+10:01:31 PM : Score is: 7
+10:01:31 PM : waiting #
+10:01:36 PM : Score is: 7
+10:01:36 PM : waiting #
+10:01:41 PM : Score is: 7
+10:01:41 PM : waiting #
+10:01:46 PM : Score is: 7
+10:01:46 PM : waiting #
+10:01:51 PM : Score is: 7
+10:01:51 PM : waiting #
+10:01:56 PM : Score is: 7
+10:01:56 PM : waiting #
+10:02:01 PM : Score is: 7
+10:02:01 PM : waiting #
+10:02:06 PM : Score is: 7
+10:02:06 PM : waiting #
+10:02:11 PM : Score is: 7
+10:02:11 PM : waiting #
+10:02:16 PM : Score is: 7
+10:02:16 PM : waiting #
+10:02:21 PM : Score is: 7
+10:02:21 PM : waiting #
+10:02:26 PM : Score is: 7
+10:02:26 PM : waiting #
+10:02:31 PM : Score is: 7
+10:02:31 PM : waiting #
+10:02:36 PM : Score is: 7
+10:02:36 PM : waiting #
+10:02:41 PM : Score is: 7
+10:02:41 PM : waiting #
+10:02:46 PM : Score is: 7
+10:02:46 PM : waiting #
+10:02:51 PM : Score is: 7
+10:02:51 PM : waiting #
+10:02:56 PM : Score is: 7
+10:02:56 PM : waiting #
+10:03:01 PM : Score is: 7
+10:03:01 PM : waiting #
+10:03:06 PM : Score is: 7
+10:03:06 PM : waiting #
+10:03:11 PM : Score is: 7
+10:03:11 PM : waiting #
+10:03:16 PM : Score is: 7
+10:03:16 PM : waiting #
+10:03:21 PM : Score is: 7
+10:03:21 PM : waiting #
+10:03:26 PM : Score is: 7
+10:03:26 PM : waiting #
+10:03:31 PM : Score is: 7
+10:03:31 PM : waiting #
+10:03:36 PM : Score is: 7
+10:03:36 PM : waiting #
+10:03:41 PM : Score is: 7
+10:03:41 PM : waiting #
+10:03:46 PM : Score is: 7
+10:03:46 PM : waiting #
+10:03:51 PM : Score is: 7
+10:03:51 PM : waiting #
+10:03:56 PM : Score is: 7
+10:03:56 PM : waiting #
+10:04:01 PM : Score is: 7
+10:04:01 PM : waiting #
+10:04:06 PM : Score is: 7
+10:04:06 PM : waiting #
+10:04:11 PM : Score is: 7
+10:04:11 PM : waiting #
+10:04:16 PM : Score is: 7
+10:04:16 PM : waiting #
+10:04:21 PM : Score is: 7
+10:04:21 PM : waiting #
+10:04:26 PM : Score is: 7
+10:04:26 PM : waiting #
+10:04:31 PM : Score is: 7
+10:04:31 PM : waiting #
+10:04:36 PM : Score is: 7
+10:04:36 PM : waiting #
+10:04:41 PM : Score is: 7
+10:04:41 PM : waiting #
+10:04:46 PM : Score is: 7
+10:04:46 PM : waiting #
+10:04:51 PM : Score is: 7
+10:04:51 PM : waiting #
+10:04:56 PM : Score is: 7
+10:04:56 PM : waiting #
+10:05:01 PM : Score is: 7
+10:05:01 PM : waiting #
+10:05:06 PM : Score is: 7
+10:05:06 PM : waiting #
+10:05:11 PM : Score is: 7
+10:05:11 PM : waiting #
+10:05:16 PM : Score is: 7
+10:05:16 PM : waiting #
+10:05:21 PM : Score is: 7
+10:05:21 PM : waiting #
+10:05:26 PM : Score is: 7
+10:05:26 PM : waiting #
+10:05:31 PM : Score is: 7
+10:05:31 PM : waiting #
+10:05:36 PM : Score is: 7
+10:05:36 PM : waiting #
+10:05:41 PM : Score is: 7
+10:05:41 PM : waiting #
+10:05:46 PM : Score is: 7
+10:05:46 PM : waiting #
+10:05:51 PM : Score is: 7
+10:05:51 PM : waiting #
+10:05:56 PM : Score is: 7
+10:05:56 PM : waiting #
+10:06:01 PM : Score is: 7
+10:06:01 PM : waiting #
+10:06:06 PM : Score is: 7
+10:06:06 PM : waiting #
+10:06:11 PM : Score is: 7
+10:06:11 PM : waiting #
+10:06:16 PM : Score is: 7
+10:06:16 PM : waiting #
+10:06:22 PM : Score is: 7
+10:06:22 PM : waiting #
+10:06:27 PM : Score is: 7
+10:06:27 PM : waiting #
+10:06:32 PM : Score is: 7
+10:06:32 PM : waiting #
+10:06:37 PM : Score is: 7
+10:06:37 PM : waiting #
+10:06:42 PM : Score is: 7
+10:06:42 PM : waiting #
+10:06:47 PM : Score is: 7
+10:06:47 PM : waiting #
+10:06:52 PM : Score is: 7
+10:06:52 PM : waiting #
+10:06:57 PM : Score is: 7
+10:06:57 PM : waiting #
+10:07:02 PM : Score is: 7
+10:07:02 PM : waiting #
+10:07:07 PM : Score is: 7
+10:07:07 PM : waiting #
+10:07:12 PM : Score is: 7
+10:07:12 PM : waiting #
+10:07:17 PM : Score is: 7
+10:07:17 PM : waiting #
+10:07:22 PM : Score is: 7
+10:07:22 PM : waiting #
+10:07:27 PM : Score is: 7
+10:07:27 PM : waiting #
+10:07:32 PM : Score is: 7
+10:07:32 PM : waiting #
+10:07:37 PM : Score is: 7
+10:07:37 PM : waiting #
+10:07:42 PM : Score is: 7
+10:07:42 PM : waiting #
+10:07:47 PM : Score is: 7
+10:07:47 PM : waiting #
+10:07:52 PM : Score is: 7
+10:07:52 PM : waiting #
+10:07:57 PM : Score is: 7
+10:07:57 PM : waiting #
+10:08:02 PM : Score is: 7
+10:08:02 PM : waiting #
+10:08:07 PM : Score is: 7
+10:08:07 PM : waiting #
+10:08:12 PM : Score is: 7
+10:08:12 PM : waiting #
+10:08:17 PM : Score is: 7
+10:08:17 PM : waiting #
+10:08:22 PM : Score is: 7
+10:08:22 PM : waiting #
+10:08:27 PM : Score is: 7
+10:08:27 PM : waiting #
+10:08:32 PM : Reloading watch page
+10:08:36 PM : Score is: 7
+10:08:36 PM : waiting #
+10:08:41 PM : Score is: 7
+10:08:41 PM : waiting #
+10:08:46 PM : Score is: 7
+10:08:46 PM : waiting #
+10:08:51 PM : Score is: 7
+10:08:51 PM : waiting #
+10:08:56 PM : Score is: 7
+10:08:56 PM : waiting #
+10:09:01 PM : Score is: 7
+10:09:01 PM : waiting #
+10:09:06 PM : Score is: 7
+10:09:06 PM : waiting #
+10:09:11 PM : Score is: 7
+10:09:11 PM : waiting #
+10:09:16 PM : Score is: 7
+10:09:16 PM : waiting #
+10:09:21 PM : Score is: 7
+10:09:21 PM : waiting #
+10:09:26 PM : Score is: 7
+10:09:26 PM : waiting #
+10:09:31 PM : Score is: 7
+10:09:31 PM : waiting #
+10:09:36 PM : Score is: 7
+10:09:36 PM : waiting #
+10:09:41 PM : Score is: 7
+10:09:41 PM : waiting #
+10:09:46 PM : Score is: 7
+10:09:46 PM : waiting #
+10:09:51 PM : Score is: 7
+10:09:51 PM : waiting #
+10:09:56 PM : Score is: 7
+10:09:56 PM : waiting #
+10:10:01 PM : Score is: 7
+10:10:01 PM : waiting #
+10:10:06 PM : Score is: 7
+10:10:06 PM : waiting #
+10:10:11 PM : Score is: 7
+10:10:11 PM : waiting #
+10:10:16 PM : Score is: 7
+10:10:16 PM : waiting #
+10:10:21 PM : Score is: 7
+10:10:21 PM : waiting #
+10:10:26 PM : Score is: 7
+10:10:26 PM : waiting #
+10:10:31 PM : Score is: 7
+10:10:31 PM : waiting #
+10:10:36 PM : Score is: 7
+10:10:36 PM : waiting #
+10:10:41 PM : Score is: 7
+10:10:41 PM : waiting #
+10:10:46 PM : Score is: 7
+10:10:46 PM : waiting #
+10:10:51 PM : Score is: 7
+10:10:51 PM : waiting #
+10:10:56 PM : Score is: 7
+10:10:56 PM : waiting #
+10:11:01 PM : Score is: 7
+10:11:01 PM : waiting #
+10:11:06 PM : Score is: 7
+10:11:06 PM : waiting #
+10:11:11 PM : Score is: 7
+10:11:11 PM : waiting #
+10:11:16 PM : Score is: 7
+10:11:16 PM : waiting #
+10:11:21 PM : Score is: 7
+10:11:21 PM : waiting #
+10:11:26 PM : Score is: 7
+10:11:26 PM : waiting #
+10:11:31 PM : Score is: 7
+10:11:31 PM : waiting #
+10:11:36 PM : Score is: 7
+10:11:36 PM : waiting #
+10:11:41 PM : Score is: 7
+10:11:41 PM : waiting #
+10:11:46 PM : Score is: 7
+10:11:46 PM : waiting #
+10:11:51 PM : Score is: 7
+10:11:51 PM : waiting #
+10:11:56 PM : Score is: 7
+10:11:56 PM : waiting #
+10:12:01 PM : Score is: 7
+10:12:01 PM : waiting #
+10:12:06 PM : Score is: 7
+10:12:06 PM : waiting #
+10:12:11 PM : Score is: 7
+10:12:11 PM : waiting #
+10:12:16 PM : Score is: 7
+10:12:16 PM : waiting #
+10:12:21 PM : Score is: 13
+10:12:21 PM : Score changed
+10:12:21 PM : Starting lights loop
+10:12:22 PM : waiting #
+10:12:27 PM : Score is: 13
+10:12:27 PM : waiting #
+10:12:32 PM : Score is: 13
+10:12:32 PM : waiting #
+10:12:37 PM : Score is: 13
+10:12:37 PM : waiting #
+10:12:42 PM : Score is: 14
+10:12:42 PM : Score changed
+10:12:42 PM : music is already playing
+10:12:42 PM : lights are already playing
+10:12:42 PM : waiting #
+10:12:47 PM : Score is: 14
+10:12:47 PM : waiting #
+10:12:52 PM : Score is: 14
+10:12:52 PM : waiting #
+10:12:57 PM : Score is: 14
+10:12:57 PM : waiting #
+10:13:02 PM : Score is: 14
+10:13:02 PM : waiting #
+10:13:07 PM : Score is: 14
+10:13:07 PM : waiting #
+10:13:08 PM : Setting aurora effect
+10:13:08 PM : Stopping lights
+10:13:12 PM : Score is: 14
+10:13:12 PM : waiting #
+10:13:17 PM : Score is: 14
+10:13:17 PM : waiting #
+10:13:22 PM : Score is: 14
+10:13:22 PM : waiting #
+10:13:27 PM : Score is: 14
+10:13:27 PM : waiting #
+10:13:32 PM : Score is: 14
+10:13:32 PM : waiting #
+10:13:37 PM : Score is: 14
+10:13:37 PM : waiting #
+10:13:42 PM : Score is: 14
+10:13:42 PM : waiting #
+10:13:47 PM : Score is: 14
+10:13:47 PM : waiting #
+10:13:52 PM : Score is: 14
+10:13:52 PM : waiting #
+10:13:57 PM : Score is: 14
+10:13:57 PM : waiting #
+10:14:02 PM : Score is: 14
+10:14:02 PM : waiting #
+10:14:07 PM : Score is: 14
+10:14:07 PM : waiting #
+10:14:12 PM : Score is: 14
+10:14:12 PM : waiting #
+10:14:17 PM : Score is: 14
+10:14:17 PM : waiting #
+10:14:22 PM : Score is: 14
+10:14:22 PM : waiting #
+10:14:27 PM : Score is: 14
+10:14:27 PM : waiting #
+10:14:32 PM : Score is: 14
+10:14:32 PM : waiting #
+10:14:37 PM : Score is: 14
+10:14:37 PM : waiting #
+10:14:42 PM : Score is: 14
+10:14:42 PM : waiting #
+10:14:47 PM : Score is: 14
+10:14:47 PM : waiting #
+10:14:52 PM : Score is: 14
+10:14:52 PM : waiting #
+10:14:57 PM : Score is: 14
+10:14:57 PM : waiting #
+10:15:02 PM : Score is: 14
+10:15:02 PM : waiting #
+10:15:07 PM : Score is: 14
+10:15:07 PM : waiting #
+10:15:12 PM : Score is: 14
+10:15:12 PM : waiting #
+10:15:17 PM : Score is: 14
+10:15:17 PM : waiting #
+10:15:22 PM : Score is: 14
+10:15:22 PM : waiting #
+10:15:27 PM : Score is: 14
+10:15:27 PM : waiting #
+10:15:32 PM : Score is: 14
+10:15:32 PM : waiting #
+10:15:37 PM : Score is: 14
+10:15:37 PM : waiting #
+10:15:42 PM : Score is: 14
+10:15:42 PM : waiting #
+10:15:47 PM : Score is: 14
+10:15:47 PM : waiting #
+10:15:52 PM : Score is: 14
+10:15:52 PM : waiting #
+10:15:57 PM : Score is: 14
+10:15:57 PM : waiting #
+10:16:02 PM : Score is: 14
+10:16:02 PM : waiting #
+10:16:07 PM : Score is: 14
+10:16:07 PM : waiting #
+10:16:12 PM : Score is: 14
+10:16:12 PM : waiting #
+10:16:17 PM : Score is: 14
+10:16:17 PM : waiting #
+10:16:22 PM : Score is: 14
+10:16:22 PM : waiting #
+10:16:27 PM : Score is: 14
+10:16:27 PM : waiting #
+10:16:32 PM : Score is: 14
+10:16:32 PM : waiting #
+10:16:37 PM : Score is: 14
+10:16:37 PM : waiting #
+10:16:42 PM : Score is: 14
+10:16:42 PM : waiting #
+10:16:47 PM : Score is: 14
+10:16:47 PM : waiting #
+10:16:52 PM : Score is: 14
+10:16:52 PM : waiting #
+10:16:57 PM : Reloading watch page
+10:17:01 PM : Score is: 14
+10:17:01 PM : waiting #
+10:17:06 PM : Score is: 14
+10:17:06 PM : waiting #
+10:17:11 PM : Score is: 14
+10:17:11 PM : waiting #
+10:17:16 PM : Score is: 14
+10:17:16 PM : waiting #
+10:17:21 PM : Score is: 14
+10:17:21 PM : waiting #
+10:17:26 PM : Score is: 14
+10:17:26 PM : waiting #
+10:17:31 PM : Score is: 14
+10:17:31 PM : waiting #
+10:17:36 PM : Score is: 14
+10:17:36 PM : waiting #
+10:17:41 PM : Score is: 14
+10:17:41 PM : waiting #
+10:17:46 PM : Score is: 14
+10:17:46 PM : waiting #
+10:17:51 PM : Score is: 14
+10:17:51 PM : waiting #
+10:17:56 PM : Score is: 14
+10:17:56 PM : waiting #
+10:18:01 PM : Score is: 14
+10:18:01 PM : waiting #
+10:18:06 PM : Score is: 14
+10:18:06 PM : waiting #
+10:18:11 PM : Score is: 14
+10:18:11 PM : waiting #
+10:18:16 PM : Score is: 14
+10:18:16 PM : waiting #
+10:18:21 PM : Score is: 14
+10:18:21 PM : waiting #
+10:18:26 PM : Score is: 14
+10:18:26 PM : waiting #
+10:18:31 PM : Score is: 14
+10:18:31 PM : waiting #
+10:18:36 PM : Score is: 14
+10:18:36 PM : waiting #
+10:18:41 PM : Score is: 14
+10:18:41 PM : waiting #
+10:18:46 PM : Score is: 14
+10:18:46 PM : waiting #
+10:18:51 PM : Score is: 14
+10:18:51 PM : waiting #
+10:18:56 PM : Score is: 14
+10:18:56 PM : waiting #
+10:19:01 PM : Score is: 14
+10:19:01 PM : waiting #
+10:19:06 PM : Score is: 14
+10:19:06 PM : waiting #
+10:19:11 PM : Score is: 14
+10:19:11 PM : waiting #
+10:19:16 PM : Score is: 14
+10:19:16 PM : waiting #
+10:19:21 PM : Score is: 14
+10:19:21 PM : waiting #
+10:19:26 PM : Score is: 14
+10:19:26 PM : waiting #
+10:19:31 PM : Score is: 14
+10:19:31 PM : waiting #
+10:19:36 PM : Score is: 14
+10:19:36 PM : waiting #
+10:19:41 PM : Score is: 14
+10:19:41 PM : waiting #
+10:19:46 PM : Score is: 14
+10:19:46 PM : waiting #
+10:19:51 PM : Score is: 14
+10:19:51 PM : waiting #
+10:19:56 PM : Score is: 14
+10:19:56 PM : waiting #
+10:20:01 PM : Score is: 14
+10:20:01 PM : waiting #
+10:20:06 PM : Score is: 14
+10:20:06 PM : waiting #
+10:20:11 PM : Score is: 14
+10:20:11 PM : waiting #
+10:20:16 PM : Score is: 14
+10:20:16 PM : waiting #
+10:20:21 PM : Score is: 14
+10:20:21 PM : waiting #
+10:20:26 PM : Score is: 14
+10:20:26 PM : waiting #
+10:20:31 PM : Score is: 14
+10:20:31 PM : waiting #
+10:20:36 PM : Score is: 14
+10:20:36 PM : waiting #
+10:20:41 PM : Score is: 14
+10:20:41 PM : waiting #
+10:20:46 PM : Score is: 14
+10:20:46 PM : waiting #
+10:20:51 PM : Score is: 14
+10:20:51 PM : waiting #
+10:20:56 PM : Score is: 14
+10:20:56 PM : waiting #
+10:21:01 PM : Score is: 14
+10:21:01 PM : waiting #
+10:21:06 PM : Score is: 14
+10:21:06 PM : waiting #
+10:21:11 PM : Score is: 14
+10:21:11 PM : waiting #
+10:21:16 PM : Score is: 14
+10:21:16 PM : waiting #
+10:21:22 PM : Score is: 14
+10:21:22 PM : waiting #
+10:21:27 PM : Score is: 14
+10:21:27 PM : waiting #
+10:21:32 PM : Score is: 14
+10:21:32 PM : waiting #
+10:21:37 PM : Score is: 14
+10:21:37 PM : waiting #
+10:21:42 PM : Score is: 14
+10:21:42 PM : waiting #
+10:21:47 PM : Score is: 14
+10:21:47 PM : waiting #
+10:21:52 PM : Score is: 14
+10:21:52 PM : waiting #
+10:21:57 PM : Score is: 14
+10:21:57 PM : waiting #
+10:22:02 PM : Score is: 14
+10:22:02 PM : waiting #
+10:22:07 PM : Score is: 14
+10:22:07 PM : waiting #
+10:22:12 PM : Score is: 14
+10:22:12 PM : waiting #
+10:22:17 PM : Score is: 14
+10:22:17 PM : waiting #
+10:22:22 PM : Score is: 14
+10:22:22 PM : waiting #
+10:22:27 PM : Score is: 14
+10:22:27 PM : waiting #
+10:22:32 PM : Score is: 14
+10:22:32 PM : waiting #
+10:22:37 PM : Score is: 14
+10:22:37 PM : waiting #
+10:22:42 PM : Score is: 14
+10:22:42 PM : waiting #
+10:22:47 PM : Score is: 14
+10:22:47 PM : waiting #
+10:22:52 PM : Score is: 14
+10:22:52 PM : waiting #
+10:22:57 PM : Score is: 14
+10:22:57 PM : waiting #
+10:23:02 PM : Score is: 14
+10:23:02 PM : waiting #
+10:23:07 PM : Score is: 14
+10:23:07 PM : waiting #
+10:23:12 PM : Score is: 14
+10:23:12 PM : waiting #
+10:23:17 PM : Score is: 14
+10:23:17 PM : waiting #
+10:23:22 PM : Score is: 14
+10:23:22 PM : waiting #
+10:23:27 PM : Score is: 14
+10:23:27 PM : waiting #
+10:23:32 PM : Score is: 14
+10:23:32 PM : waiting #
+10:23:37 PM : Score is: 14
+10:23:37 PM : waiting #
+10:23:42 PM : Score is: 14
+10:23:42 PM : waiting #
+10:23:47 PM : Score is: 14
+10:23:47 PM : waiting #
+10:23:52 PM : Score is: 14
+10:23:52 PM : waiting #
+10:23:57 PM : Score is: 14
+10:23:57 PM : waiting #
+10:24:02 PM : Score is: 14
+10:24:02 PM : waiting #
+10:24:07 PM : Score is: 14
+10:24:07 PM : waiting #
+10:24:12 PM : Score is: 14
+10:24:12 PM : waiting #
+10:24:17 PM : Score is: 14
+10:24:17 PM : waiting #
+10:24:22 PM : Score is: 14
+10:24:22 PM : waiting #
+10:24:27 PM : Score is: 14
+10:24:27 PM : waiting #
+10:24:32 PM : Score is: 14
+10:24:32 PM : waiting #
+10:24:37 PM : Score is: 14
+10:24:37 PM : waiting #
+10:24:42 PM : Score is: 14
+10:24:42 PM : waiting #
+10:24:47 PM : Score is: 14
+10:24:47 PM : waiting #
+10:24:52 PM : Score is: 14
+10:24:52 PM : waiting #
+10:24:57 PM : Score is: 14
+10:24:57 PM : waiting #
+10:25:02 PM : Score is: 14
+10:25:02 PM : waiting #
+10:25:07 PM : Score is: 14
+10:25:07 PM : waiting #
+10:25:12 PM : Score is: 14
+10:25:12 PM : waiting #
+10:25:17 PM : Score is: 14
+10:25:17 PM : waiting #
+10:25:22 PM : Reloading watch page
+10:25:26 PM : Score is: 14
+10:25:26 PM : waiting #
+10:25:31 PM : Score is: 14
+10:25:31 PM : waiting #
+10:25:36 PM : Score is: 14
+10:25:36 PM : waiting #
+10:25:41 PM : Score is: 14
+10:25:41 PM : waiting #
+10:25:46 PM : Score is: 14
+10:25:46 PM : waiting #
+10:25:51 PM : Score is: 14
+10:25:51 PM : waiting #
+10:25:56 PM : Score is: 14
+10:25:56 PM : waiting #
+10:26:01 PM : Score is: 14
+10:26:01 PM : waiting #
+10:26:06 PM : Score is: 14
+10:26:06 PM : waiting #
+10:26:11 PM : Score is: 14
+10:26:11 PM : waiting #
+10:26:16 PM : Score is: 14
+10:26:16 PM : waiting #
+10:26:21 PM : Score is: 14
+10:26:21 PM : waiting #
+10:26:26 PM : Score is: 14
+10:26:26 PM : waiting #
+10:26:31 PM : Score is: 14
+10:26:31 PM : waiting #
+10:26:36 PM : Score is: 14
+10:26:36 PM : waiting #
+10:26:41 PM : Score is: 14
+10:26:41 PM : waiting #
+10:26:46 PM : Score is: 14
+10:26:46 PM : waiting #
+10:26:51 PM : Score is: 14
+10:26:51 PM : waiting #
+10:26:56 PM : Score is: 14
+10:26:56 PM : waiting #
+10:27:01 PM : Score is: 14
+10:27:01 PM : waiting #
+10:27:06 PM : Score is: 14
+10:27:06 PM : waiting #
+10:27:11 PM : Score is: 14
+10:27:11 PM : waiting #
+10:27:16 PM : Score is: 14
+10:27:16 PM : waiting #
+10:27:21 PM : Score is: 14
+10:27:21 PM : waiting #
+10:27:26 PM : Score is: 14
+10:27:26 PM : waiting #
+10:27:32 PM : Score is: 14
+10:27:32 PM : waiting #
+10:27:37 PM : Score is: 14
+10:27:37 PM : waiting #
+10:27:42 PM : Score is: 14
+10:27:42 PM : waiting #
+10:27:47 PM : Score is: 14
+10:27:47 PM : waiting #
+10:27:52 PM : Score is: 14
+10:27:52 PM : waiting #
+10:27:57 PM : Score is: 14
+10:27:57 PM : waiting #
+10:28:02 PM : Score is: 14
+10:28:02 PM : waiting #
+10:28:07 PM : Score is: 14
+10:28:07 PM : waiting #
+10:28:12 PM : Score is: 14
+10:28:12 PM : waiting #
+10:28:17 PM : Score is: 14
+10:28:17 PM : waiting #
+10:28:22 PM : Score is: 14
+10:28:22 PM : waiting #
+10:28:27 PM : Score is: 14
+10:28:27 PM : waiting #
+10:28:32 PM : Score is: 14
+10:28:32 PM : waiting #
+10:28:37 PM : Score is: 14
+10:28:37 PM : waiting #
+10:28:42 PM : Score is: 14
+10:28:42 PM : waiting #
+10:28:47 PM : Score is: 14
+10:28:47 PM : waiting #
+10:28:52 PM : Score is: 14
+10:28:52 PM : waiting #
+10:28:57 PM : Score is: 14
+10:28:57 PM : waiting #
+10:29:02 PM : Score is: 14
+10:29:02 PM : waiting #
+10:29:07 PM : Score is: 14
+10:29:07 PM : waiting #
+10:29:12 PM : Score is: 14
+10:29:12 PM : waiting #
+10:29:17 PM : Score is: 14
+10:29:17 PM : waiting #
+10:29:22 PM : Score is: 14
+10:29:22 PM : waiting #
+10:29:27 PM : Score is: 14
+10:29:27 PM : waiting #
+10:29:32 PM : Score is: 14
+10:29:32 PM : waiting #
+10:29:37 PM : Score is: 14
+10:29:37 PM : waiting #
+10:29:42 PM : Score is: 14
+10:29:42 PM : waiting #
+10:29:47 PM : Score is: 14
+10:29:47 PM : waiting #
+10:29:52 PM : Score is: 14
+10:29:52 PM : waiting #
+10:29:57 PM : Score is: 14
+10:29:57 PM : waiting #
+10:30:02 PM : Score is: 14
+10:30:02 PM : waiting #
+10:30:07 PM : Score is: 14
+10:30:07 PM : waiting #
+10:30:12 PM : Score is: 14
+10:30:12 PM : waiting #
+10:30:17 PM : Score is: 14
+10:30:17 PM : waiting #
+10:30:22 PM : Score is: 14
+10:30:22 PM : waiting #
+10:30:27 PM : Score is: 14
+10:30:27 PM : waiting #
+10:30:32 PM : Score is: 14
+10:30:32 PM : waiting #
+10:30:37 PM : Score is: 14
+10:30:37 PM : waiting #
+10:30:42 PM : Score is: 14
+10:30:42 PM : waiting #
+10:30:47 PM : Score is: 14
+10:30:47 PM : waiting #
+10:30:52 PM : Score is: 14
+10:30:52 PM : waiting #
+10:30:57 PM : Score is: 14
+10:30:57 PM : waiting #
+10:31:02 PM : Score is: 14
+10:31:02 PM : waiting #
+10:31:07 PM : Score is: 14
+10:31:07 PM : waiting #
+10:31:12 PM : Score is: 14
+10:31:12 PM : waiting #
+10:31:17 PM : Score is: 14
+10:31:17 PM : waiting #
+10:31:22 PM : Score is: 14
+10:31:22 PM : waiting #
+10:31:27 PM : Score is: 14
+10:31:27 PM : waiting #
+10:31:32 PM : Score is: 14
+10:31:32 PM : waiting #
+10:31:37 PM : Score is: 14
+10:31:37 PM : waiting #
+10:31:42 PM : Score is: 14
+10:31:42 PM : waiting #
+10:31:47 PM : Score is: 14
+10:31:47 PM : waiting #
+10:31:52 PM : Score is: 14
+10:31:52 PM : waiting #
+10:31:57 PM : Score is: 14
+10:31:57 PM : waiting #
+10:32:02 PM : Score is: 14
+10:32:02 PM : waiting #
+10:32:07 PM : Score is: 14
+10:32:07 PM : waiting #
+10:32:12 PM : Score is: 14
+10:32:12 PM : waiting #
+10:32:17 PM : Score is: 14
+10:32:17 PM : waiting #
+10:32:22 PM : Score is: 14
+10:32:22 PM : waiting #
+10:32:27 PM : Score is: 14
+10:32:27 PM : waiting #
+10:32:32 PM : Score is: 14
+10:32:32 PM : waiting #
+10:32:37 PM : Score is: 14
+10:32:37 PM : waiting #
+10:32:42 PM : Score is: 14
+10:32:42 PM : waiting #
+10:32:47 PM : Score is: 14
+10:32:47 PM : waiting #
+10:32:52 PM : Score is: 14
+10:32:52 PM : waiting #
+10:32:57 PM : Score is: 14
+10:32:57 PM : waiting #
+10:33:02 PM : Score is: 14
+10:33:02 PM : waiting #
+10:33:07 PM : Score is: 14
+10:33:07 PM : waiting #
+10:33:12 PM : Score is: 14
+10:33:12 PM : waiting #
+10:33:17 PM : Score is: 14
+10:33:17 PM : waiting #
+10:33:22 PM : Score is: 14
+10:33:22 PM : waiting #
+10:33:27 PM : Score is: 14
+10:33:27 PM : waiting #
+10:33:32 PM : Score is: 14
+10:33:32 PM : waiting #
+10:33:37 PM : Score is: 14
+10:33:37 PM : waiting #
+10:33:42 PM : Score is: 14
+10:33:42 PM : waiting #
+10:33:47 PM : Reloading watch page
+10:33:51 PM : Score is: 14
+10:33:51 PM : waiting #
+10:33:56 PM : Score is: 14
+10:33:56 PM : waiting #
+10:34:01 PM : Score is: 14
+10:34:01 PM : waiting #
+10:34:06 PM : Score is: 14
+10:34:06 PM : waiting #
+10:34:12 PM : Score is: 14
+10:34:12 PM : waiting #
+10:34:17 PM : Score is: 14
+10:34:17 PM : waiting #
+10:34:22 PM : Score is: 14
+10:34:22 PM : waiting #
+10:34:27 PM : Score is: 14
+10:34:27 PM : waiting #
+10:34:32 PM : Score is: 14
+10:34:32 PM : waiting #
+10:34:37 PM : Score is: 14
+10:34:37 PM : waiting #
+10:34:42 PM : Score is: 14
+10:34:42 PM : waiting #
+10:34:47 PM : Score is: 14
+10:34:47 PM : waiting #
+10:34:52 PM : Score is: 14
+10:34:52 PM : waiting #
+10:34:57 PM : Score is: 14
+10:34:57 PM : waiting #
+10:35:02 PM : Score is: 14
+10:35:02 PM : waiting #
+10:35:07 PM : Score is: 14
+10:35:07 PM : waiting #
+10:35:12 PM : Score is: 14
+10:35:12 PM : waiting #
+10:35:17 PM : Score is: 14
+10:35:17 PM : waiting #
+10:35:22 PM : Score is: 14
+10:35:22 PM : waiting #
+10:35:27 PM : Score is: 14
+10:35:27 PM : waiting #
+10:35:32 PM : Score is: 14
+10:35:32 PM : waiting #
+10:35:37 PM : Score is: 14
+10:35:37 PM : waiting #
+10:35:42 PM : Score is: 14
+10:35:42 PM : waiting #
+10:35:47 PM : Score is: 14
+10:35:47 PM : waiting #
+10:35:52 PM : Score is: 14
+10:35:52 PM : waiting #
+10:35:57 PM : Score is: 14
+10:35:57 PM : waiting #
+10:36:02 PM : Score is: 14
+10:36:02 PM : waiting #
+10:36:07 PM : Score is: 14
+10:36:07 PM : waiting #
+10:36:12 PM : Score is: 14
+10:36:12 PM : waiting #
+10:36:17 PM : Score is: 14
+10:36:17 PM : waiting #
+10:36:22 PM : Score is: 14
+10:36:22 PM : waiting #
+10:36:27 PM : Score is: 14
+10:36:27 PM : waiting #
+10:36:32 PM : Score is: 14
+10:36:32 PM : waiting #
+10:36:37 PM : Score is: 14
+10:36:37 PM : waiting #
+10:36:42 PM : Score is: 14
+10:36:42 PM : waiting #
+10:36:47 PM : Score is: 14
+10:36:47 PM : waiting #
+10:36:52 PM : Score is: 14
+10:36:52 PM : waiting #
+10:36:57 PM : Score is: 14
+10:36:57 PM : waiting #
+10:37:02 PM : Score is: 14
+10:37:02 PM : waiting #
+10:37:07 PM : Score is: 21
+10:37:07 PM : Score changed
+10:37:07 PM : Starting lights loop
+10:37:07 PM : waiting #
+10:37:12 PM : Score is: 21
+10:37:12 PM : waiting #
+10:37:17 PM : Score is: 21
+10:37:17 PM : waiting #
+10:37:22 PM : Score is: 21
+10:37:22 PM : waiting #
+10:37:27 PM : Score is: 21
+10:37:27 PM : waiting #
+10:37:32 PM : Score is: 21
+10:37:32 PM : waiting #
+10:37:37 PM : Score is: 21
+10:37:37 PM : waiting #
+10:37:42 PM : Score is: 21
+10:37:42 PM : waiting #
+10:37:47 PM : Score is: 21
+10:37:47 PM : waiting #
+10:37:52 PM : Score is: 21
+10:37:52 PM : waiting #
+10:37:54 PM : Setting aurora effect
+10:37:54 PM : Stopping lights
+10:37:57 PM : Score is: 21
+10:37:57 PM : waiting #
+10:38:02 PM : Score is: 21
+10:38:02 PM : waiting #
+10:39:16 PM : Starting lights loop
+10:39:21 PM : Score is: 21
+10:39:21 PM : waiting #
+10:39:26 PM : Score is: 21
+10:39:26 PM : waiting #
+10:39:31 PM : Score is: 21
+10:39:31 PM : waiting #
+10:39:36 PM : Score is: 21
+10:39:36 PM : waiting #
+10:39:41 PM : Score is: 21
+10:39:41 PM : waiting #
+10:39:46 PM : Score is: 21
+10:39:46 PM : waiting #
+10:39:51 PM : Score is: 21
+10:39:51 PM : waiting #
+10:39:56 PM : Score is: 21
+10:39:56 PM : waiting #
+10:40:01 PM : Score is: 21
+10:40:01 PM : waiting #
+10:40:02 PM : Setting aurora effect
+10:40:02 PM : Stopping lights
+10:40:03 PM : [object Object]
+10:40:06 PM : Score is: 21
+10:40:06 PM : waiting #
+10:40:11 PM : Score is: 21
+10:40:11 PM : waiting #
+10:40:16 PM : Score is: 21
+10:40:16 PM : waiting #
+10:40:21 PM : Score is: 21
+10:40:21 PM : waiting #
+10:40:26 PM : Score is: 21
+10:40:26 PM : waiting #
+10:40:31 PM : Score is: 21
+10:40:31 PM : waiting #
+10:40:36 PM : Score is: 21
+10:40:36 PM : waiting #
+10:40:41 PM : Score is: 21
+10:40:41 PM : waiting #
+10:40:46 PM : Score is: 21
+10:40:46 PM : waiting #
+10:40:51 PM : Score is: 21
+10:40:51 PM : waiting #
+10:40:56 PM : Score is: 21
+10:40:56 PM : waiting #
+10:41:01 PM : Score is: 21
+10:41:01 PM : waiting #
+10:41:06 PM : Score is: 21
+10:41:06 PM : waiting #
+10:41:11 PM : Score is: 21
+10:41:11 PM : waiting #
+10:41:16 PM : Score is: 21
+10:41:16 PM : waiting #
+10:41:21 PM : Score is: 21
+10:41:21 PM : waiting #
+10:41:26 PM : Score is: 21
+10:41:26 PM : waiting #
+10:41:31 PM : Score is: 21
+10:41:31 PM : waiting #
+10:41:36 PM : Score is: 21
+10:41:36 PM : waiting #
+10:41:41 PM : Score is: 21
+10:41:41 PM : waiting #
+10:41:46 PM : Score is: 21
+10:41:46 PM : waiting #
+10:41:51 PM : Score is: 21
+10:41:51 PM : waiting #
+10:41:57 PM : Score is: 21
+10:41:57 PM : waiting #
+10:42:02 PM : Score is: 21
+10:42:02 PM : waiting #
+10:42:07 PM : Score is: 21
+10:42:07 PM : waiting #
+10:42:12 PM : Score is: 21
+10:42:12 PM : waiting #
+10:42:17 PM : Score is: 21
+10:42:17 PM : waiting #
+10:42:22 PM : Score is: 21
+10:42:22 PM : waiting #
+10:42:27 PM : Score is: 21
+10:42:27 PM : waiting #
+10:42:32 PM : Score is: 21
+10:42:32 PM : waiting #
+10:42:37 PM : Score is: 21
+10:42:37 PM : waiting #
+10:42:42 PM : Score is: 21
+10:42:42 PM : waiting #
+10:42:47 PM : Score is: 21
+10:42:47 PM : waiting #
+10:42:52 PM : Score is: 21
+10:42:52 PM : waiting #
+10:42:57 PM : Score is: 21
+10:42:57 PM : waiting #
+10:43:02 PM : Score is: 21
+10:43:02 PM : waiting #
+10:43:07 PM : Score is: 21
+10:43:07 PM : waiting #
+10:43:12 PM : Score is: 21
+10:43:12 PM : waiting #
+10:43:17 PM : Score is: 21
+10:43:17 PM : waiting #
+10:43:22 PM : Score is: 21
+10:43:22 PM : waiting #
+10:43:27 PM : Score is: 21
+10:43:27 PM : waiting #
+10:43:32 PM : Score is: 21
+10:43:32 PM : waiting #
+10:43:37 PM : Score is: 21
+10:43:37 PM : waiting #
+10:43:42 PM : Score is: 21
+10:43:42 PM : waiting #
+10:43:47 PM : Score is: 21
+10:43:47 PM : waiting #
+10:43:52 PM : Score is: 21
+10:43:52 PM : waiting #
+10:43:57 PM : Score is: 21
+10:43:57 PM : waiting #
+10:44:02 PM : Score is: 21
+10:44:02 PM : waiting #
+10:44:07 PM : Score is: 21
+10:44:07 PM : waiting #
+10:44:12 PM : Score is: 21
+10:44:12 PM : waiting #
+10:44:17 PM : Score is: 21
+10:44:17 PM : waiting #
+10:44:22 PM : Score is: 21
+10:44:22 PM : waiting #
+10:44:27 PM : Score is: 21
+10:44:27 PM : waiting #
+10:44:32 PM : Score is: 21
+10:44:32 PM : waiting #
+10:44:37 PM : Score is: 21
+10:44:37 PM : waiting #
+10:44:42 PM : Score is: 21
+10:44:42 PM : waiting #
+10:44:47 PM : Score is: 21
+10:44:47 PM : waiting #
+10:44:52 PM : Score is: 21
+10:44:52 PM : waiting #
+10:44:57 PM : Score is: 21
+10:44:57 PM : waiting #
+10:45:02 PM : Score is: 21
+10:45:02 PM : waiting #
+10:45:07 PM : Score is: 21
+10:45:07 PM : waiting #
+10:45:12 PM : Score is: 21
+10:45:12 PM : waiting #
+10:45:17 PM : Score is: 21
+10:45:17 PM : waiting #
+10:45:22 PM : Score is: 21
+10:45:22 PM : waiting #
+10:45:27 PM : Score is: 21
+10:45:27 PM : waiting #
+10:45:32 PM : Score is: 21
+10:45:32 PM : waiting #
+10:45:37 PM : Score is: 21
+10:45:37 PM : waiting #
+10:45:42 PM : Score is: 21
+10:45:42 PM : waiting #
+10:45:47 PM : Score is: 21
+10:45:47 PM : waiting #
+10:45:52 PM : Score is: 21
+10:45:52 PM : waiting #
+10:45:57 PM : Score is: 21
+10:45:57 PM : waiting #
+10:46:02 PM : Score is: 21
+10:46:02 PM : waiting #
+10:46:07 PM : Score is: 21
+10:46:07 PM : waiting #
+10:46:12 PM : Score is: 21
+10:46:12 PM : waiting #
+10:46:17 PM : Score is: 21
+10:46:17 PM : waiting #
+10:46:22 PM : Score is: 21
+10:46:22 PM : waiting #
+10:46:27 PM : Score is: 21
+10:46:27 PM : waiting #
+10:46:32 PM : Score is: 21
+10:46:32 PM : waiting #
+10:46:37 PM : Score is: 21
+10:46:37 PM : waiting #
+10:46:43 PM : Score is: 21
+10:46:43 PM : waiting #
+10:46:48 PM : Score is: 21
+10:46:48 PM : waiting #
+10:46:53 PM : Score is: 21
+10:46:53 PM : waiting #
+10:46:58 PM : Score is: 21
+10:46:58 PM : waiting #
+10:47:03 PM : Score is: 21
+10:47:03 PM : waiting #
+10:47:08 PM : Score is: 21
+10:47:08 PM : waiting #
+10:47:13 PM : Score is: 21
+10:47:13 PM : waiting #
+10:47:18 PM : Score is: 21
+10:47:18 PM : waiting #
+10:47:23 PM : Score is: 21
+10:47:23 PM : waiting #
+10:47:28 PM : Score is: 21
+10:47:28 PM : waiting #
+10:47:33 PM : Score is: 21
+10:47:33 PM : waiting #
+10:47:38 PM : Score is: 21
+10:47:38 PM : waiting #
+10:47:43 PM : Score is: 21
+10:47:43 PM : waiting #
+10:47:48 PM : Reloading watch page
+10:47:52 PM : Score is: 21
+10:47:52 PM : waiting #
+10:47:57 PM : Score is: 21
+10:47:57 PM : waiting #
+10:48:02 PM : Score is: 21
+10:48:02 PM : waiting #
+10:48:07 PM : Score is: 21
+10:48:07 PM : waiting #
+10:48:12 PM : Score is: 21
+10:48:12 PM : waiting #
+10:48:17 PM : Score is: 21
+10:48:17 PM : waiting #
+10:48:22 PM : Score is: 21
+10:48:22 PM : waiting #
+10:48:27 PM : Score is: 21
+10:48:27 PM : waiting #
+10:48:32 PM : Score is: 21
+10:48:32 PM : waiting #
+10:48:37 PM : Score is: 21
+10:48:37 PM : waiting #
+10:48:42 PM : Score is: 21
+10:48:42 PM : waiting #
+10:48:47 PM : Score is: 21
+10:48:47 PM : waiting #
+10:48:52 PM : Score is: 21
+10:48:52 PM : waiting #
+10:48:57 PM : Score is: 21
+10:48:57 PM : waiting #
+10:49:02 PM : Score is: 21
+10:49:02 PM : waiting #
+10:49:07 PM : Score is: 21
+10:49:07 PM : waiting #
+10:49:12 PM : Score is: 21
+10:49:12 PM : waiting #
+10:49:17 PM : Score is: 21
+10:49:17 PM : waiting #
+10:49:22 PM : Score is: 21
+10:49:22 PM : waiting #
+10:49:27 PM : Score is: 21
+10:49:27 PM : waiting #
+10:49:32 PM : Score is: 21
+10:49:32 PM : waiting #
+10:49:37 PM : Score is: 21
+10:49:37 PM : waiting #
+10:49:42 PM : Score is: 21
+10:49:42 PM : waiting #
+10:49:47 PM : Score is: 21
+10:49:47 PM : waiting #
+10:49:52 PM : Score is: 21
+10:49:52 PM : waiting #
+10:49:57 PM : Score is: 21
+10:49:57 PM : waiting #
+10:50:02 PM : Score is: 21
+10:50:02 PM : waiting #
+10:50:07 PM : Score is: 21
+10:50:07 PM : waiting #
+10:50:12 PM : Score is: 21
+10:50:12 PM : waiting #
+10:50:17 PM : Score is: 21
+10:50:17 PM : waiting #
+10:50:22 PM : Score is: 21
+10:50:22 PM : waiting #
+10:50:27 PM : Score is: 21
+10:50:27 PM : waiting #
+10:50:32 PM : Score is: 21
+10:50:32 PM : waiting #
+10:50:37 PM : Score is: 21
+10:50:37 PM : waiting #
+10:50:42 PM : Score is: 21
+10:50:42 PM : waiting #

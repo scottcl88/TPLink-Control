@@ -1,4 +1,3 @@
-
 const puppeteer = require('puppeteer');
 const MyLights = require("./lights");
 const MyMusic = require('./music');

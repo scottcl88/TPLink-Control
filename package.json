@@ -10,6 +10,7 @@
   "author": "Scott Lewis",
   "license": "ISC",
   "dependencies": {
+    "fs": "^0.0.1-security",
     "puppeteer": "^17.1.0",
     "tplink-lightbulb": "^1.7.10"
   },
