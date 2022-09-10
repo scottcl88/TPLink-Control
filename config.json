@@ -1,5 +1,5 @@
 {
-  "gameId": "401404124",
+  "gameId": "401405079",
   "isHome": true,
   "musicUrl": "https://www.youtube.com/watch?v=5Tq4Wk0100w",
   "musicLengthMs": 42900,
@@ -9,5 +9,7 @@
   "secondaryColorSaturation": 0,
   "changeLightsBack": false,
   "lightsCount": 30,
-  "lightsDelayMs": 1500
+  "lightsDelayMs": 1500,
+  "debugToFile": true,
+  "debugToConsole": true
 }

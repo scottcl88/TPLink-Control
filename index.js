@@ -9,6 +9,7 @@ https://www.w3docs.com/tools/color-hsl
 https://github.com/python-kasa/python-kasa/issues/191
 /*
 192.168.1.42 - Desk - KL430(US)
+192.168.1.63 - TV - KL430(US)
 192.168.1.198 - Kitchen Light - KL130(US)
 */
 
@@ -23,11 +24,24 @@ const MyWatch = require("./watch")
 const config = require("./config.json")
 const fs = require('fs')
 
-var exLog = console.log;
-console.log = function(msg) {
-    fs.appendFileSync('./log-file.txt', new Date().toLocaleTimeString() + " : " + msg+"\n");
-    exLog(new Date().toLocaleTimeString() + " : " + msg);
+let exLog = console.log;
+console.log = function (msg, ...optionalParams) {
+    if (config.debugToFile) {
+        try {
+            let jsonString = JSON.stringify(...optionalParams);
+            if(jsonString === null || jsonString === undefined){{
+                jsonString = "";
+            }}
+            fs.appendFileSync('./log-file.txt', new Date().toLocaleTimeString() + " : " + msg + " " + jsonString + "\n");
+        } catch (ex) {
+            console.error("Error writing to file: ", ex);
+        }
+    }
+    if (config.debugToConsole) {
+        exLog(new Date().toLocaleTimeString() + " : " + msg, ...optionalParams);
+    }
 }
+
 
 let myWatch = new MyWatch();
 myWatch.startWatching(config.gameId, config.isHome);

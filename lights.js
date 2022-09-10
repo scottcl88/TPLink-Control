@@ -7,6 +7,7 @@ https://github.com/python-kasa/python-kasa
 https://www.w3docs.com/tools/color-hsl
 /*
 192.168.1.42 - Desk - KL430(US)
+192.168.1.63 - TV - KL430(US)
 192.168.1.198 - Kitchen Light - KL130(US)
 */
 const TPLSmartDevice = require("tplink-lightbulb")
@@ -18,6 +19,7 @@ class MyLights {
 
   kitchenLight = new TPLSmartDevice('192.168.1.198');
   deskStrip = new TPLSmartDevice('192.168.1.42');
+  tvStrip = new TPLSmartDevice('192.168.1.63');
 
   bulb = new MyBulb();
   strip = new MyStrip();
@@ -34,9 +36,11 @@ class MyLights {
       if (this.doRed) {     
         this.bulb.setColor(this.kitchenLight, config.primaryColorHue, config.primaryColorSaturation);
         this.strip.setColor(this.deskStrip, config.secondaryColorHue, config.secondaryColorSaturation);
+        this.strip.setColor(this.tvStrip, config.secondaryColorHue, config.secondaryColorSaturation);
       } else {
         this.bulb.setColor(this.kitchenLight, config.secondaryColorHue, config.secondaryColorSaturation);
         this.strip.setColor(this.deskStrip, config.primaryColorHue, config.primaryColorSaturation);
+        this.strip.setColor(this.tvStrip, config.primaryColorHue, config.primaryColorSaturation);
       }
       this.doRed = !this.doRed;
       this.count++;
@@ -45,6 +49,7 @@ class MyLights {
     await this.delay(config.lightsDelayMs);
     this.bulb.setWhiteColor(this.kitchenLight);
     this.strip.setAuroraColor(this.deskStrip);
+    this.strip.setAuroraColor(this.tvStrip);
     this.isPlaying = false;
     this.count = 0;
     console.log("Stopping lights");
