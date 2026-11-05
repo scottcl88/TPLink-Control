@@ -1,10 +1,13 @@
+if (!process.env.RING_REFRESH_TOKEN) {
+  throw new Error('RING_REFRESH_TOKEN environment variable is required');
+}
 //https://github.com/dgreif/ring
 
 import { RingApi, RingDeviceType } from 'ring-client-api'
 
 console.log("Starting ring api thing");
 const ringApi = new RingApi({
-  refreshToken: 'eyJhbGciOiJIUzUxMiIsImprdSI6Ii9vYXV0aC9pbnRlcm5hbC9qd2tzIiwia2lkIjoiYzEyODEwMGIiLCJ0eXAiOiJKV1QifQ.eyJpYXQiOjE2NjE4NjY3MTYsImlzcyI6IlJpbmdPYXV0aFNlcnZpY2UtcHJvZDp1cy1lYXN0LTE6ZjEwMmRlOWIiLCJyZWZyZXNoX2NpZCI6InJpbmdfb2ZmaWNpYWxfYW5kcm9pZCIsInJlZnJlc2hfc2NvcGVzIjpbImNsaWVudCJdLCJyZWZyZXNoX3VzZXJfaWQiOjMzODQyOTU3LCJybmQiOiJBclRGMzVDSGVyS3E3QSIsInNlc3Npb25faWQiOiJlNWVlZThjYy1lMmY3LTQ5OTUtOTZkYS04YmY1OTQyZThlOGUiLCJ0eXBlIjoicmVmcmVzaC10b2tlbiJ9.Ke7Sy6K6y4bDogSy7oOKc-wjs1LuChr1yYETgypJ2BQXmyAvbyUVcgNBs-sqVw24kFIG1d8JCYooyjPMF3r8VA',
+  refreshToken: process.env.RING_REFRESH_TOKEN,
 
   // The following are all optional. See below for details
   cameraStatusPollingSeconds: 20,
